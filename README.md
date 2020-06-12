@@ -1,7 +1,7 @@
 # Ecoleta-mobile
 Waste collection project. Developed during the NLW (Next Level Week) offered by Rocketseat
 
-![Ecoleta web Screenshot](assets/screenshot.png)
+![Ecoleta web Screenshot](assets/screenshot.png | width=100)
 
 ## Technologies
 
